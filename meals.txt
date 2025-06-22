@@ -1,0 +1,5 @@
+candy,5.0
+milk,80.0
+pop,50.0
+pepsi,8.0
+ratatue,60.0

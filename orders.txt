@@ -1,0 +1,11 @@
+9,206,Meal: candy,5.0
+6,265,Meal: pop,20.0
+3,206,Meal: pop,50.0
+36,265,Meal: pop,50.0
+22,265,Meal: candy,5.0
+63,202,Meal: milk,80.0
+96,202,Meal: candy,5.0
+85,202,Meal: popcorn,50.0
+75,202,Meal: popcorn,50.0
+789,202,Meal: pop,50.0
+4,254,Meal: pop,50.0

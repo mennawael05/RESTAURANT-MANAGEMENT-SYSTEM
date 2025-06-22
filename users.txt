@@ -1,0 +1,14 @@
+2,user,pass,ooo@,55,Admin,it
+150,mena,852,mena@,555,Employee,chif
+175,gigi,963,nmenna@,879,Employee,it
+122,user2,pass2,lklk@,9595,Employee,hr
+206,lona,951,lona@,978,Customer,none
+265,boba,858,bee@,4,Customer,none
+120,hhh,656,ma@,22,Employee,chif
+187,kkk,989,uuu@,6456,Employee,it
+238,ooo,254,ggg@,88,Customer,none
+123,nona,225,uiy@,999,Employee,chif
+58,salah,58,salah@gmail.com,666,Admin,IT
+142,tamer,142,tamer@gmail.com,878,Employee,chif
+202,mena,202,menna@,969,Customer,none
+254,menna,969,mmm@m,55,Customer,none
